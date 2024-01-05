@@ -57,8 +57,17 @@ x2 = ['michel','amal','josephine','rita']
 # print(x2)
 #[] clear all elements empty list
 
-tuples = (1,2,3)
-print(tuples)
+# tuples = (1,2,3)
+# print(tuples)
+#(1, 2, 3) tuples between parentheses u cant modified tuples
+
+info ={
+    "name": "michel",
+    "age":25,
+   "lebanon":"country"
+}
+print(info)
+
 
 
 
