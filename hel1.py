@@ -1,4 +1,6 @@
+#https://www.youtube.com/watch?v=eeRw__TlgmQ&list=PLlvFEn0NKwXIT9fR6gdZRcQSReKUpLWNz
 # lista = ["michel", 1, True, False, 10.6,[1,2,3,4,5,"rita","josephine"]]
+
 
 # print(lista[5])
 #[1, 2, 3, 4, 5, 'rita', 'josephine'] output
@@ -37,6 +39,7 @@
 # print (x1)
 #[-3, -1, 4, 5, 10, 12, 43]
 
+
 x2 = ['michel','amal','josephine','rita']
 # x2.sort()
 # print(x2)
@@ -50,8 +53,14 @@ x2 = ['michel','amal','josephine','rita']
 # print(x2)
 #['amal', 'josephine', 'rita']
 
-x2.clear()
-print(x2)
+# x2.clear()
+# print(x2)
+#[] clear all elements empty list
+
+tuples = (1,2,3)
+print(tuples)
+
+
 
 
 
