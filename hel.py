@@ -47,7 +47,7 @@ print(min(4,9))
 # enter your name: mike
 # Enter your age: 25css
 # your age is: 25
-# you won! mike
+# you won! mikecds
 x = input("Enter your lan1: ")
 z = input("Enter your lan2: ")
 print("i love : " + x)
