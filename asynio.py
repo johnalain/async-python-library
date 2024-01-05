@@ -67,6 +67,29 @@
 # for i in genFun():
 #      print(i)
 
+#(The Yield keyword in Python is similar 
+# to a return statement used for returning
+# values or objects in Python)
+
+#You can create a generator function using the generator() and yield keywords. Consider the example below.
+
+# def generator():
+
+#    yield "Welcome"
+
+#    yield "to"
+
+#    yield "Simplilearn"
+
+
+# gen_object = generator()
+
+# print(type(gen_object))
+
+# for i in gen_object:
+
+#    print(i)
+
 # def genFun2():
 #     yield 100
 #     yield True
@@ -145,6 +168,8 @@ async def main():
     print('... World!')
     await asyncio.sleep(3)
     print('...rita jose')
+    await asyncio.sleep(4)
+    print('...josephine')
 
 asyncio.run(main())
 
